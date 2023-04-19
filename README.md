@@ -73,3 +73,7 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+
+
+https://github.com/os-climate/os_c_data_commons/blob/main/docs/setup-initial-environment.md
